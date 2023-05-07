@@ -1,6 +1,6 @@
-# TypeScript Web Application
+# Plaforming
 
-A template TypeScript Web Application that can be used to seed a new project.
+A simple 2d platforming engine built in [TypeScript](https://www.typescriptlang.org/).
 
 ## Prerequisites
 

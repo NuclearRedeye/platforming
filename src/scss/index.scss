@@ -16,4 +16,14 @@ body {
   p {
     text-align: center;
   }
+
+  a {
+    color: rgb(68, 237, 249);
+  }
+
+  canvas {
+    border: 2px solid rgb(255, 255, 255);
+    width: 640px;
+    height: 480px;
+  }
 }
