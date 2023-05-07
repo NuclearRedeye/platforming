@@ -89,7 +89,7 @@ lint: node_modules
 # Target to run all unit tests.
 test: node_modules
 	@echo "Running unit tests..."
-	@npx jest
+	@npx jest --passWithNoTests
 
 # Target that builds a debug/development version of the app
 debug: dist/debug dist/debug/index.html dist/debug/index.css dist/debug/index.js dist/debug/assets
